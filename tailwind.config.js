@@ -6,15 +6,14 @@ export default {
   ],
   theme: {
     colors: {
-      'blue': '#1fb6ff',
-      'purple': '#7e5bef',
-      'pink': '#ff49db',
-      'orange': '#ff7849',
-      'green': '#13ce66',
-      'yellow': '#ffc82c',
-      'gray-dark': '#273444',
-      'gray': '#8492a6',
-      'gray-light': '#d3dce6',
+      'primary': '#FB432C',
+      'secondary': '#000000df',
+      'white40': 'rgba(255, 255, 255, 0.4)',
+      'lightblack': 'rgba(34, 34, 34, 0.4)',
+      'gray': 'rgba(78, 89, 112, 0.4)',
+      'white': '#fff',
+      'black': '#000',
+      
     },
     gradientColors: {
       'red-orange': ['#FB432C', '#FF591E'],
